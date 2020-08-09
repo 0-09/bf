@@ -21,7 +21,6 @@ $ git clone https://github.com/anggaxd/bf
 
 ## Run script
 ```
-$ chmod +x bf.py
 $ cd bf
 $ python2 bf.py
 ```
